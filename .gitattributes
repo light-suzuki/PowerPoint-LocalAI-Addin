@@ -1,0 +1,13 @@
+# 既定はテキストとして自動正規化(リポジトリ内はLF)
+* text=auto
+
+# Windows専用のスクリプト/ソリューションはCRLFで維持
+*.sln    text eol=crlf
+*.ps1    text eol=crlf
+*.csproj text
+
+# ドキュメント・スキル定義・コードはLF
+*.cs   text eol=lf
+*.md   text eol=lf
+*.json text eol=lf
+*.xml  text eol=lf

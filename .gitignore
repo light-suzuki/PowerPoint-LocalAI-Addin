@@ -1,0 +1,34 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.dll
+*.pdb
+*.exe
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.vsp
+*.userprefs
+
+# NuGet
+packages/
+*.nupkg
+
+# VSTO / ClickOnce publish
+[Pp]ublish/
+app.publish/
+*.vsto
+*.manifest
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ローカルで生成されるユーザースキル/設定(コミットしない)
+# ※ 既定スキルは LocalPptSkillAgent/Skills/*.md で管理

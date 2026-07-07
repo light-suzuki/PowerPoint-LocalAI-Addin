@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalPptSkillAgent", "LocalPptSkillAgent\LocalPptSkillAgent.csproj", "{C2A7CDB4-3119-44D1-A08C-98F1732FAE50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalPptSkillAgent.Tests", "LocalPptSkillAgent.Tests\LocalPptSkillAgent.Tests.csproj", "{6C416811-5111-4379-98B0-0A2C7C2A787D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalPptSkillAgent.Vsto", "LocalPptSkillAgent.Vsto\LocalPptSkillAgent.Vsto.csproj", "{A7CFB845-1A46-42B7-818A-21D34ECD1238}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2A7CDB4-3119-44D1-A08C-98F1732FAE50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2A7CDB4-3119-44D1-A08C-98F1732FAE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2A7CDB4-3119-44D1-A08C-98F1732FAE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2A7CDB4-3119-44D1-A08C-98F1732FAE50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C416811-5111-4379-98B0-0A2C7C2A787D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C416811-5111-4379-98B0-0A2C7C2A787D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C416811-5111-4379-98B0-0A2C7C2A787D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C416811-5111-4379-98B0-0A2C7C2A787D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7CFB845-1A46-42B7-818A-21D34ECD1238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7CFB845-1A46-42B7-818A-21D34ECD1238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7CFB845-1A46-42B7-818A-21D34ECD1238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7CFB845-1A46-42B7-818A-21D34ECD1238}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
