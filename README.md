@@ -1,5 +1,9 @@
 # LocalPptSkillAgent
 
+[![CI](https://github.com/light-suzuki/PowerPoint-LocalAI-Addin/actions/workflows/ci.yml/badge.svg)](https://github.com/light-suzuki/PowerPoint-LocalAI-Addin/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/light-suzuki/=semver)](https://github.com/light-suzuki/PowerPoint-LocalAI-Addin/releases)
+
+
 **完全ローカルで動く、PowerPoint用のAIアシスタント アドイン。**
 研究データや社外秘のスライドを、クラウドに一切出さずにローカルLLMで編集・相談できます。
 
